@@ -5,6 +5,9 @@
 ## Build Setup
 
 ``` bash
+# main repo
+cd planner 
+
 # install dependencies
 npm install
 
